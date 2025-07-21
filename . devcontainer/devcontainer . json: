@@ -1,0 +1,15 @@
+{
+  "name": "XAUUSD Trading Bot",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.9",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-python.python"
+  ],
+  "containerEnv": {
+    "MT5_LOGIN": "123456",
+    "MT5_PASSWORD": "your_password",
+    "MT5_SERVER": "MetaQuotes-Demo"
+  }
+}
