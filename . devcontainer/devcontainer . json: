@@ -8,8 +8,8 @@
     "ms-python.python"
   ],
   "containerEnv": {
-    "MT5_LOGIN": "123456",
-    "MT5_PASSWORD": "your_password",
-    "MT5_SERVER": "MetaQuotes-Demo"
+    "MT5_LOGIN": "106486",
+    "MT5_PASSWORD": "2Cm!@L%mCF",
+    "MT5_SERVER": "TradewillGlobal-Server"
   }
 }
